@@ -8,7 +8,7 @@
 
 ## 💨 Run the projects
 Fill in all required data in `./config.json`.
-Install the modules `npm i`
+Install the modules `npm i`.
 
 ## ✨ Credits
 If you consider using this Bot, make sure to credit me.
