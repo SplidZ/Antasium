@@ -12,4 +12,4 @@ Install the modules `npm i`.
 
 ## ✨ Credits
 If you consider using this Bot, make sure to credit me.
-> Example: `Bot Coded by [SplidZ](https://github.com/SplidZ). Modified by [your Name](https://github.com/your Name)`
+> Example: `Bot Coded by [SplidZ](https://github.com/SplidZ). Modified by [your Name](https://github.com/your Name).`
