@@ -6,7 +6,7 @@
 - [discord.js@14.3.0](https://www.npmjs.com/package/discord.js)
 - [glob@7.2.0](https://www.npmjs.com/package/glob/v/7.2.0)
 
-## 💨 Run the projects
+## 💨 Run the project
 Fill in all required data in `./config.json`.
 Install the modules `npm i`.
 
