@@ -1,0 +1,2 @@
+# Antasium
+Multipurpose Discord Bot.
