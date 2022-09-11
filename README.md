@@ -7,7 +7,7 @@
 - [glob@7.2.0](https://www.npmjs.com/package/glob/v/7.2.0)
 
 ## 💨 Run the projects
-Fill in all required data in `./config.json`
+Fill in all required data in `./config.json`\n
 Install the modules `npm i`
 
 ## ✨ Credits
